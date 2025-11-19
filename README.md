@@ -70,7 +70,6 @@ Load the relevant model, predict the category, and flag anomalies based on confi
 Create reports detailing potential mismatches.
 
 Business Value: 
-![Image Category Mismatch](https://github.com/user-attachments/assets/4e65574b-2200-4572-b304-e0698578410f)
 
 1. Improving Buyer Experience:  
 Ensuring that buyers see accurately categorized products increases trust and satisfaction. 
@@ -81,3 +80,5 @@ By detecting intentional miscategorization, the module helps in preventing fraud
 4. Compliance with Standards:  
 Ensures that product categories adhere to the guidelines set by the GeM portal, enhancing overall 
 platform reliability.
+![Image Category Mismatch](https://github.com/user-attachments/assets/f97164ea-b5bb-49a0-9402-4059e0189f31)
+
