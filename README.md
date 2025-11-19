@@ -81,6 +81,10 @@ By detecting intentional miscategorization, the module helps in preventing fraud
 Ensures that product categories adhere to the guidelines set by the GeM portal, enhancing overall 
 platform reliability.
 ![Image Category Mismatch](https://github.com/user-attachments/assets/f97164ea-b5bb-49a0-9402-4059e0189f31)
+
+
 ![Unstructured data analysis -Image Category mismatch ](https://github.com/user-attachments/assets/a764d4ee-9bc4-41b0-82bb-7321d3386dc9)
+
+
 
 
