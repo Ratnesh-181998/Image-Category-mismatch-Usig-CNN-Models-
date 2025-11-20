@@ -87,4 +87,18 @@ platform reliability.
 
 
 
+ Integration & API: Developed and integrated using FlaskAPI. 
+
+ Input: Solution requires category name as input 
+
+ <img width="1406" height="1100" alt="image" src="https://github.com/user-attachments/assets/5fd74f72-2c2c-46fe-9aa7-de394c838d33" />
+
+
+<img width="1266" height="623" alt="image" src="https://github.com/user-attachments/assets/04e0f2b5-e75d-48e0-b337-ad4d5fc96fa7" />
+
+
+
+
+
+
 
